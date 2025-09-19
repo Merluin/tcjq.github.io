@@ -6,7 +6,6 @@ permalink: /publication/2017-02-22-paper-title-number-1
 excerpt: 'Can changing your hand posture alter how your brain maps your own fingers?'
 date: 2017-02-22
 venue: 'Scientific Reports'
-slidesurl: 'http://merluin.github.io/files/slides1.pdf'
 paperurl: 'http://merluin.github.io/files/paper1.pdf'
 bibtexurl: 'http://merluin.github.io/files/bibtex1.bib'
 citation: 'Tamè, L., Dransfield, E., Quettier, T., & Longo, M. R. (2017). Finger posture modulates structural body representations. Scientific Reports, 7(1), 43019.
