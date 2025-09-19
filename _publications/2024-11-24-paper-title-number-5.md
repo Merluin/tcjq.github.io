@@ -2,7 +2,7 @@
 title: "When mind and body align: examining the role of cross-modal congruency in conscious representations of happy facial expressions"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-24-paper-title-number-4
+permalink: /publication/2024-11-24-paper-title-number-5
 excerpt: 'Cross-modal congruency between facial mimicry and visual input enhances the stability of happy face representations in consciousness, supporting embodied models of emotion perception.'
 date: 2024-11-24
 venue: 'Cognition and Emotion'
