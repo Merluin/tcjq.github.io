@@ -6,7 +6,7 @@ permalink: /publication/2021-05-11-paper-title-number-2
 excerpt: 'Blocking facial mimicry during binocular rivalry shifts visual awareness toward neutral faces, revealing a novel link between sensorimotor simulation and conscious perception of emotion.'
 date: 2021-05-11
 venue: 'Scientific Reports'
-bibtexurl: 'http://merluin.github.io/files/bibtex1.bib'
+bibtexurl: 'http://merluin.github.io/files/bibtex2.bib'
 paperurl: 'http://merluin.github.io/files/paper2.pdf'
 citation: 'Quettier, T., Gambarota, F., Tsuchiya, N., & Sessa, P. (2021). Blocking facial mimicry during binocular rivalry modulates visual awareness of faces with a neutral expression. Scientific Reports, 11(1), 9972. 
 https://doi.org/10.1038/s41598-021-89355-5 '
