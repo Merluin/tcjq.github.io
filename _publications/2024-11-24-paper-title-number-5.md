@@ -6,8 +6,8 @@ permalink: /publication/2024-11-24-paper-title-number-5
 excerpt: 'Cross-modal congruency between facial mimicry and visual input enhances the stability of happy face representations in consciousness, supporting embodied models of emotion perception.'
 date: 2024-11-24
 venue: 'Cognition and Emotion'
-bibtexurl: 'http://merluin.github.io/files/bibtex3.bib'
-paperurl: 'http://merluin.github.io/files/paper3.pdf'
+bibtexurl: 'http://merluin.github.io/files/bibtex5.bib'
+paperurl: 'http://merluin.github.io/files/paper5.pdf'
 citation: 'Quettier, T., Moro, E., Tsuchiya, N., & Sessa, P. (2023). When mind and body align: examining the role of cross-modal congruency in conscious representations of happy facial expressions. Cognition and Emotion, 1–9. 
 https://doi.org/10.1080/02699931.2023.2285823 '
 ---
