@@ -2,10 +2,10 @@
 title: "Finger posture modulates structural body representations."
 collection: publications
 category: manuscripts
-permalink: /publication/2017-22-02-paper-title-number-1
+permalink: /publication/2017-02-22-paper-title-number-1
 excerpt: 'Can changing your hand posture alter how your brain maps your own fingers?
 This study challenges the traditional view that structural body representations (BSRs) are static and distinct from sensorimotor processes. We found that participants’ ability to judge which fingers were touched — a task used to assess finger agnosia — was significantly influenced by how far apart their fingers were physically spread. These findings suggest that BSRs are flexible and shaped by current body posture. As co-author, I was responsible for the data collection and contributed to uncovering this core result: our internal body map adapts in real time to physical configuration.'
-date: 2017-22-02
+date: 2017-02-22
 venue: 'Scientific Reports'
 slidesurl: 'http://merluin.github.io/files/slides1.pdf'
 paperurl: 'http://merluin.github.io/files/paper1.pdf'
