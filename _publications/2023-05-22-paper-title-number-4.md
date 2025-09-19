@@ -6,7 +6,7 @@ permalink: /publication/2023-05-22-paper-title-number-4
 excerpt: 'By tracking real-time transitions during binocular rivalry, this study reveals asymmetric dynamics in the formation and dissolution of conscious face perception, with happy expressions showing prolonged temporal inertia.'
 date: 2023-05-22
 venue: 'Frontiers in Human Neuroscience'
-bibtexurl: 'http://merluin.github.io/files/bibtex3.pdf'
+bibtexurl: 'http://merluin.github.io/files/bibtex3.bib'
 paperurl: 'http://merluin.github.io/files/paper3.pdf'
 citation: 'Quettier, T., Di Lello, N., Tsuchiya, N., & Sessa, P. (2023). In and Out of Consciousness: A method to study the temporal evolution of consciousness during binocular rivalry.Frontiers in Human Neuroscience, 17. 
 https://doi.org/10.3389/fnhum.2023.1145653'
