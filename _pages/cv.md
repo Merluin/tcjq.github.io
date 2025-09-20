@@ -11,7 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Psychological Sciences
+  Department of Developmental Psychology and Socialisation, University of Padova, Padova, Italy
+  Thesis: Conscious processing of facial expressions and the contribution of somesthetic signals.
+
+● Supervisor: Prof. Paola Sessa — Final Grade: Excellent
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
