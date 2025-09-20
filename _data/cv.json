@@ -201,58 +201,261 @@
   }
 ],
   "presentations": [
+  {
+    "name": "Conscious processing of facial expressions and the contribute of somesthetic signals: Evidence from binocular rivalry dynamics",
+    "event": "PhD School Lunch, University of Padova",
+    "date": "2020-05-21",
+    "location": "Padova, Italy",
+    "description": ""
+  },
+  {
+    "name": "Facial mimicry and rivalry",
+    "event": "Cognitive Neuroscience Society Annual Meeting",
+    "date": "2021-03-13",
+    "location": "Online",
+    "description": ""
+  },
+  {
+    "name": "On the cycle of consciousness and how to study it",
+    "event": "The Science of Consciousness: Obstacles to Progress and Strategies to Overcome Them, University of Oslo",
+    "date": "2021-12-03",
+    "location": "Online workshop",
+    "description": ""
+  },
+  {
+    "name": "Conscious processing of facial expressions and the contribute of somesthetic signals: Evidence from binocular rivalry dynamics",
+    "event": "Body Representation Laboratory, Department of Psychological Sciences, Birkbeck University of London",
+    "date": "2022-04-01",
+    "location": "London, UK",
+    "description": ""
+  },
+  {
+    "name": "The Affective Turn in Cognitive Science",
+    "event": "AISC Midterm Conference, Associazione Italiana di Scienze Cognitive",
+    "date": "2022-06-23",
+    "location": "University of Parma, Parma, Italy",
+    "description": ""
+  },
+  {
+    "name": "Conscious processing of facial expressions",
+    "event": "AIP Annual Meeting, Associazione Italiana di Psicologia",
+    "date": "2022-09-27",
+    "location": "University of Padova, Padova, Italy",
+    "description": ""
+  },
+  {
+    "name": "I metodi per studiare i contenuti della consapevolezza",
+    "event": "Brain Awareness Week",
+    "date": "2023-03-16",
+    "location": "University of Padova, Padova, Italy",
+    "description": ""
+  },
+  {
+    "name": "From emotion perception to action: a ccPAS study",
+    "event": "International Affective and Cognitive Neuroscience Conference (BRAINiac Annual Meeting)",
+    "date": "2024-07-16",
+    "location": "Tenerife, Spain",
+    "description": ""
+  },
+  {
+    "name": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
+    "event": "British Association of Cognitive Neuroscience (BACN Annual Meeting)",
+    "date": "2024-09-11",
+    "location": "London, UK",
+    "description": ""
+  },
+  {
+    "name": "Motor resonance as predictive modeling of emotions",
+    "event": "Società Italiana di Psicofisiologia e Neuroscienze Cognitive (SIPF Annual Meeting)",
+    "date": "2024-11-06",
+    "location": "Cesena, Italy",
+    "description": ""
+  },
+  {
+    "name": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
+    "event": "Postdoctoral Research Symposium - IX Edition",
+    "date": "2025-01-22",
+    "location": "University of Bologna, Bologna, Italy",
+    "description": ""
+  }
+],
+  "conferencePosters": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "title": "Sensorimotor modulation of visual consciousness of others’ emotions",
+      "authors": ["Quettier, T.", "Gambarota, F.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2019-04-10",
+      "event": "PhD Open Day",
+      "location": "University of Padova, Padova, Italy"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "title": "Blocking facial mimicry during binocular rivalry modulates visual awareness of others’ facial expressions of emotion",
+      "authors": ["Quettier, T.", "Gambarota, F.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2019-06-06",
+      "event": "Summer School, Bayesian Statistical Analyses",
+      "location": "University of Verona, Italy"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "title": "Blocking facial mimicry during binocular rivalry modulates visual awareness of others’ facial expressions of emotion",
+      "authors": ["Quettier, T.", "Gambarota, F.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2021-03-14",
+      "event": "Cognitive Neuroscience Society Annual Meeting",
+      "location": "Online"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "title": "Induced Facial mimicry during binocular rivalry modulates visual awareness of faces with a happy expression",
+      "authors": ["Quettier, T.", "Moro. E.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2023-11-10",
+      "event": "SIPF Annual Meeting",
+      "location": "Siena, Italy"
+    },
+    {
+      "title": "Individual differences in intracortical inhibition predict action control when facing emotional and neutral stimuli",
+      "authors": ["Quettier, T.", "Ippolito, G.", "Però, L.", "Cardellicchio, P.", "Battaglia, S.", "Borgomaneri, S."],
+      "date": "2024-09-06",
+      "event": "SIPF Annual Meeting",
+      "location": "Cesena, Italy"
+    },
+    {
+      "title": "Increasing associative plasticity in premotor-temporal backprojections improves emotion's authenticity discrimination",
+      "authors": ["Quettier, T.", "Scarpazza, C.", "Borgomaneri, S."],
+      "date": "2024-09-04",
+      "event": "SIPF Annual Meeting",
+      "location": "Cesena, Italy"
+    },
+    {
+      "title": "When Mind and Body Align: Examining the Role of Cross-Modal Congruency in Conscious Representations of Happy Facial Expressions",
+      "authors": ["Quettier, T.", "Moro. E.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2024-09-10",
+      "event": "BACN Annual Meeting",
+      "location": "London, UK"
+    },
+    {
+      "title": "Facial Feedback or Sensorimotor Simulation? Induced Smiling During Binocular Rivalry Enhances Conscious Perception of Positive Stimuli",
+      "authors": ["Ghislandi, A.", "Quettier, T.", "Tsuchiya, N.", "Sessa, P."],
+      "date": "2024-10-11",
+      "event": "Ettore Majorana Foundation and Centre for Scientific Culture",
+      "location": "Erice, Italy"
+    },
+    {
+      "title": "Boosting emotion authenticity recognition: a ccPAS study",
+      "authors": ["Quettier, T.", "Però, L.", "Scarpazza, C.", "Borgomaneri, S."],
+      "date": "2024-10-11",
+      "event": "Ettore Majorana Foundation and Centre for Scientific Culture",
+      "location": "Erice, Italy"
+    },
+    {
+      "title": "Cortico-Cortical Paired Associative Stimulation to Enhance Action Control: Towards a Novel Therapeutic Approach",
+      "authors": ["Borgomaneri, S.", "Però, L.", "Arlati, L.", "Lenzi, L.", "Quettier, T.", "Battaglia, S."],
+      "date": "2025-01-28",
+      "event": "European Workshop on Cognitive Neuropsychology",
+      "location": "Bressanone, Italy"
     }
   ],
-  "teaching": [
+  "grantsAndAwards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "National French Qualification for Associate Professorship (Psychology section, CNU 16)",
+      "institution": "French Ministry of Higher Education and Research",
+      "date": "2025-03-11 to 2029-12-31"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "Post-doctoral fellowship (~€24,000)",
+      "institution": "University of Padova",
+      "date": "2018-10-01 to 2021-12-31"
+    },
+    {
+      "title": "PhD fellowship (~€59,000)",
+      "institution": "Italian Ministry of Universities and Research (MUR)",
+      "date": "2022-01-01 to 2022-12-31"
+    },
+    {
+      "title": "Tuition fee waiver (€981)",
+      "institution": "University of Padova",
+      "date": "2017-10-01 to 2018-07-16"
+    },
+    {
+      "title": "EXPLO’RA Sup grant (€3800)",
+      "institution": "Auvergne–Rhône-Alpes Region, France",
+      "date": "2016-10-01 to 2017-07-31"
+    },
+    {
+      "title": "ERASMUS+ grant (€3000)",
+      "institution": "Université Lumière Lyon 2, France",
+      "date": "2016-10-01 to 2017-07-31"
     }
   ],
-  "portfolio": [
+ "teaching": [
+  {
+    "course": "Basic Level Statistics (in English)",
+    "institution": "Doctoral School of the University of Verona, University of Verona",
+    "date": "2024-11-27 to 2025-01-08",
+    "role": "Adjunct Professor (20 hours, online)",
+    "description": "Application of knowledge in measurement theory and statistics using R and Jamovi."
+  },
+  {
+    "course": "General Psychology (Module B, in Italian)",
+    "institution": "B.Sc. in Methods in Psychological Science, University of Padova",
+    "date": "2022-10-01 to 2026-09-30",
+    "role": "Supplementary Teaching (30h/year, 1st semester)",
+    "description": "Design and delivery of supplementary teaching activities, including online quizzes, moderation of forums, and preparation of learning materials."
+  },
+  {
+    "course": "Binocular Rivalry and Mimicry (in Italian)",
+    "institution": "Functional and Cognitive Basis of Intersubjectivity (M.Sc.), University of Padova",
+    "date": "2021-04-13 and 2023-05-11",
+    "role": "Seminar Speaker (2h each)",
+    "description": "Lectio magistralis on the interaction between visual awareness and mimicry mechanisms."
+  },
+  {
+    "course": "PsychoPy3 Programming & Open Science Workshops (in English)",
+    "institution": "The ARCA Initiative — Department of Statistical Sciences, University of Padova",
+    "date": "2025-06-30 to 2025-07-05",
+    "role": "Instructor & Tutor (16h)",
+    "description": "Delivered with Dr. Rebecca Hirst (Open Science Tools). Focused on PsychoPy3 programming and open science workflows."
+  },
+  {
+    "course": "PsychoPy3: programmare un esperimento (in Italian)",
+    "institution": "Applied Research Courses Academy (ARCA), University of Padova",
+    "date": "2021-11-08 to 2025-03-21 (7 editions)",
+    "role": "Workshop Instructor (20h per edition, open badge awarded)",
+    "description": "Programming a complete experiment using PsychoPy Builder interface, from basic task design to advanced features. Workshops held in: Nov 2021, Oct 2022, Apr & Oct 2023, Apr & Nov 2024, Mar 2025."
+  }
+],
+   "publicEngagement": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "I metodi per studiare i contenuti della consapevolezza (The methods for studying the contents of consciousness)",
+      "event": "Brain Awareness Week",
+      "date": "2022-03-16",
+      "location": "Palazzo del Bo, University of Padua, Padua, Italy",
+      "description": "Talk addressed to the general public on psychological research methods to study consciousness."
     }
+  ],
+  "institutionalRoles": [
+    {
+      "role": "Member of the PhD Representatives in the Departmental Board",
+      "institution": "Department of Developmental Psychology and Socialisation, University of Padua",
+      "startDate": "2018-10-01",
+      "endDate": "2021-12-31",
+      "description": "Acted as intermediary between PhD students and the Head of Department; proposed initiatives to address departmental issues."
+    },
+    {
+      "role": "Member of the Post-Doc Representatives in the Departmental Board",
+      "institution": "Department of Psychology, University of Bologna",
+      "startDate": "2024-02-20",
+      "endDate": "present",
+      "description": "Acted as intermediary between post-docs and the Head of Department; proposed grassroots initiatives to solve issues."
+    },
+    {
+      "role": "Member of the Teaching Board",
+      "institution": "Italian Reproducibility Network (ITRN), Italy",
+      "startDate": "2024-04-30",
+      "endDate": "present",
+      "description": "Contributed to development of national registry of open science courses and training opportunities in Italy."
+    }
+  ],
+  "memberships": [
+    "Associazione Italiana di Psicologia (AIP) – Experimental Section (since 2018)",
+    "Association for Mathematical Consciousness Science (AMCS, since 2023)",
+    "Italian Reproducibility Network (ITRN, since 2023)",
+    "Psicostat, University of Padua (since 2018)"
   ]
 }
