@@ -128,36 +128,78 @@
 ],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
+ "publications": [
+  {
+    "name": "Finger posture modulates structural body representations",
+    "publisher": "Scientific Reports",
+    "releaseDate": "2017-02-23",
+    "website": "https://doi.org/10.1038/srep43019",
+    "summary": "Investigates how finger posture affects the brain’s structural representation of the body."
+  },
+  {
+    "name": "Blocking facial mimicry during binocular rivalry modulates visual awareness of faces with a neutral expression",
+    "publisher": "Scientific Reports",
+    "releaseDate": "2021-05-12",
+    "website": "https://doi.org/10.1038/s41598-021-89355-5",
+    "summary": "Facial mimicry influences visual awareness during binocular rivalry, suggesting embodied contributions to face perception."
+  },
+  {
+    "name": "Testing EEG functional connectivity between sensorimotor and face-processing visual regions in individuals with congenital facial palsy",
+    "publisher": "Frontiers in Systems Neuroscience",
+    "releaseDate": "2023-04-20",
+    "website": "https://doi.org/10.3389/fnsys.2023.1123221",
+    "summary": "Examines EEG-based functional connectivity in individuals with congenital facial palsy to assess sensorimotor contributions to face processing."
+  },
+  {
+    "name": "In and Out of Consciousness: A method to study the temporal evolution of consciousness during binocular rivalry",
+    "publisher": "Frontiers in Human Neuroscience",
+    "releaseDate": "2023-06-12",
+    "website": "https://doi.org/10.3389/fnhum.2023.1145653",
+    "summary": "Introduces a novel method for tracing the temporal dynamics of conscious perception during binocular rivalry."
+  },
+  {
+    "name": "When mind and body align: examining the role of cross-modal congruency in conscious representations of happy facial expressions",
+    "publisher": "Cognition and Emotion",
+    "releaseDate": "2023-11-20",
+    "website": "https://doi.org/10.1080/02699931.2023.2285823",
+    "summary": "Explores how tactile-visual congruency enhances conscious access to emotional facial expressions."
+  },
+  {
+    "name": "Individual differences in intracortical inhibition predict action control when facing emotional stimuli",
+    "publisher": "Frontiers in Psychology",
+    "releaseDate": "2024-03-22",
+    "website": "https://doi.org/10.3389/fpsyg.2024.1391723",
+    "summary": "Links individual differences in intracortical inhibition to behavioral action control under emotional challenge."
+  },
+  {
+    "name": "Silicon Spike: An Arduino-based low-cost and open-access triggerbox to precisely control TMS devices",
+    "publisher": "Behavior Research Methods",
+    "releaseDate": "2025-05-18",
+    "website": "https://doi.org/10.3758/s13428-025-02653-y",
+    "summary": "Presents an open-source, low-cost Arduino-based triggerbox to synchronize TMS with millisecond precision."
+  },
+  {
+    "name": "Facial expressions selectively modulate P300 somatosensory evoked-potential, but emotional scenes do not: Electrophysiological evidence for sensorimotor simulation",
+    "publisher": "NeuroImage",
+    "releaseDate": "2025-08-01",
+    "website": "https://doi.org/10.1016/j.neuroimage.2025.121322",
+    "summary": "SEPs reveal sensorimotor modulation by facial expressions, not scenes, supporting simulation over emotion reactivity."
+  },
+  {
+    "name": "Early changes in corticospinal excitability for subliminally presented fearful body postures",
+    "publisher": "Scientific Reports",
+    "releaseDate": "2025-09-10",
+    "website": "https://doi.org/10.1038/s41598-025-13185-y",
+    "summary": "Demonstrates early motor suppression in response to subliminal fearful bodies, supporting rapid action preparation."
+  },
+  {
+    "name": "Enhancing human action inhibition through cortico-cortical paired associative stimulation",
+    "publisher": "Annals of the New York Academy of Sciences",
+    "releaseDate": "2025-09-18",
+    "website": "https://doi.org/10.1111/nyas.70077",
+    "summary": "Hebbian ccPAS targeting AIN improves behavioral inhibition, highlighting network-specific plasticity."
+  }
+],
   "presentations": [
     {
       "name": "Talk 1 on Relevant Topic in Your Field",
