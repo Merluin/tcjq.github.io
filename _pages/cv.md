@@ -108,16 +108,69 @@ Birkbeck College, University of London, London, UK
 - Tactile stimulation  
 - *PI: Prof. Matthew Longo*
 
+Grants and Awards
+======
+**11/03/2025 – 31/12/2029**  
+**National French Qualification for Associate Professorship**  
+*Psychology section (CNU 16), awarded by the French Ministry of Higher Education and Research*
+
+**01/01/2022 – 31/12/2022**  
+**Ph.D. Fellowship** (~€59,000)  
+*Italian Ministry of Universities and Research (MUR) – State Scholarship (“Borsa di Stato”) awarded through national competitive selection*  
+University of Padova, Italy
+
+**01/10/2018 – 31/12/2021**  
+**Post-doctoral Fellowship** (~€24,000)  
+*Department of Developmental Psychology and Socialisation*  
+University of Padova, Padova, Italy
+
+**01/10/2017 – 16/07/2018**  
+**Tuition Fee Waiver** (€981)  
+*Department of Developmental Psychology and Socialisation*  
+University of Padova, Padova, Italy  
+- *“Bando per l’attribuzione di esoneri dai contributi studenteschi” for students with foreign qualifications enrolling in Italian-taught programmes*
+
+**01/10/2016 – 31/07/2017**  
+**EXPLO’RA Sup Grant** (€3,800)  
+*Auvergne–Rhône-Alpes Region, France*  
+- 10-month research training at the University of Padova, Italy
+
+**01/10/2016 – 31/07/2017**  
+**ERASMUS+ Grant** (€3,000)  
+*Université Lumière Lyon 2, France*  
+- 10-month mobility grant for research training at the University of Padova  
+- *Tutor: Prof. Francesca Peressotti*
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+###  Research Techniques & Experimental Methodologies
+- Binocular Rivalry, Electric Stimulation, Tactile Stimulation  
+- Transcranial Magnetic Stimulation (TMS), Electroencephalography (EEG), Electromyography (EMG)  
+- Neuronavigation and motor thresholding procedures  
+
+###  Programming Languages
+- MATLAB, Python, Arduino IDE  
+
+###  Data Analysis Software
+- MATLAB, Python, R, Statistica  
+- Jamovi, Microsoft Excel  
+
+###  Stimuli Presentation & Experimental Task Software
+- PsychoPy3, Psychtoolbox, E-Prime, OpenSesame  
+
+###  Graphic & 3D Processing Software
+- BioRender, Adobe Photoshop, Fusion360  
+- 3D Printing workflows and file optimization  
+
+### ✍ Writing & Typesetting Tools
+- LaTeX, Markdown, Microsoft Word, Google Docs  
+
+###  Reference Management
+- Mendeley, Paperpile, ReadCube  
+
+###  Psychological & Neuropsychological Testing
+- Administration and scoring of cognitive and clinical tests
 
 Publications
 ======
