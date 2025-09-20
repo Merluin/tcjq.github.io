@@ -1,15 +1,15 @@
 ---
-title: "Facial expressions selectively modulate P300 somatosensory evoked-potential, but emotional scenes do not: Electrophysiological evidence for Sensorimotor Simulation"
+title: "Early changes in corticospinal excitability for subliminally presented fearful body postures"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-15-paper-title-number-8
-excerpt: 'Do facial expressions uniquely modulate our brain’s tactile responses—beyond general emotional reactivity?'
+permalink: /publication/2025-08-15-paper-title-number-9
+excerpt: 'Can your motor system react to fear before you even know it’s there? Subliminal body postures may trigger early corticospinal inhibition.'
 date: 2025-08-15
-venue: 'NeuroImage'
-paperurl: 'http://merluin.github.io/files/paper8.pdf'
-bibtexurl: 'http://merluin.github.io/files/bibtex8.bib'
-citation: 'Costa, S., Lomoriello, A., Quettier, T., Caruana, F., Ferrari, P., & Sessa, P. (2025). Facial expressions selectively modulate P300 somatosensory evoked-potential, but emotional scenes do not: Electrophysiological evidence for Sensorimotor Simulation. NeuroImage, 121322. https://doi.org/10.1016/j.neuroimage.2025.121322'
+venue: 'Scientific Reports'
+paperurl: 'http://merluin.github.io/files/paper9.pdf'
+bibtexurl: 'http://merluin.github.io/files/bibtex9.bib'
+citation: 'Borgomaneri, S., Quettier, T., Ambrosecchia, M., Battaglia, S., Tamietto, M., & Avenanti, A. (2025). Early changes in corticospinal excitability for subliminally presented fearful body postures. Scientific Reports, 15(1), 29088. 
+https://doi.org/10.1038/s41598-025-13185-y '
 ---
 *Abstract*
-The role of the sensorimotor cortices in processing facial expressions remains a topic of debate. While substantial evidence supports their involvement via simulation and mirroring mechanisms, an alternative view argues that sensorimotor activation reflects a general emotional tuning to affective content. To clarify these competing hypotheses, we examined sensorimotor responses to emotional (disgusting) scenes—which evoke affect without requiring simulation—and emotional (disgusted) facial expressions. In one-third of trials, gentle tactile stimulation was applied to the left levator labii superioris muscle at two time points to elicit somatosensory evoked potentials (SEPs). A subtraction approach was used to isolate pure somatosensory activity by removing visual-only responses (VEP) from combined visual-tactile responses (SEP+VEP), with a blank-screen condition as an additional baseline.
-We observed a small but significant reduction in P300 SEP amplitude at right central, centro-frontal, and centro-parietal electrodes when tactile stimulation followed disgusted facial expressions compared to disgusting scenes. This effect was independent of subjective ratings of arousal and valence. Importantly, only SEPs following facial expressions differed significantly from those following tactile stimulation alone, suggesting a specific modulation by facial expression processing. Despite the relatively small amplitude of the observed effects, and the somewhat preliminary nature of the results, these findings provide novel evidence that facial expressions engage the sensorimotor system in a specific and privileged manner, consistent with the simulation hypothesis.
+Fearful body expressions convey critical information that is rapidly and preferentially processed, facilitating swift motor reactions to potential dangers. Consistent evidence has shown that even the subliminal presentation of fear-related expressions can impact visual processing and autonomic responses, increasing sensory vigilance for monitoring potential threats. However, it remains unclear whether the presentation of non-visible emotional bodies modulates corticospinal excitability (CSE) in the observer. To investigate this, we asked 22 healthy participants to perform a sex discrimination task involving neutral target body postures, preceded by the brief subliminal presentation of fearful, happy, or neutral body postures. CSE was tested using Transcranial Magnetic Stimulation (TMS) at early time points (70, 90, and 110 ms) after target stimulus onset. Results showed a significant CSE reduction in the dominant hemisphere for subliminal fearful primes compared to happy and neutral primes. This CSE suppression was independent of the time of stimulation, participants’ subjective or objective awareness, metacognitive sensitivity, or personality traits. Our findings highlight an early automatic activation of the motor system in response to subliminal fearful stimuli, supporting the view that fearful expressions, even when not consciously perceived, activate basic survival mechanisms for monitoring and preparing fast motor responses to potential threats.
