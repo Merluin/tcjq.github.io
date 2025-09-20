@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Psychological Sciences
-  Department of Developmental Psychology and Socialisation, University of Padova, Padova, Italy
-  Thesis: Conscious processing of facial expressions and the contribution of somesthetic signals.
+**01/10/2018 – 31/12/2021**  
+**Ph.D. in Psychological Sciences**  
+Department of Developmental Psychology and Socialisation, University of Padova, Padova, Italy  
+Thesis: *Conscious processing of facial expressions and the contribution of somesthetic signals.*  
+- *Supervisor: Prof. Paola Sessa* — Final Grade: **Excellent**
 
 ● Supervisor: Prof. Paola Sessa — Final Grade: Excellent
 * M.S. in Jekyll, GitHub University, 2014
