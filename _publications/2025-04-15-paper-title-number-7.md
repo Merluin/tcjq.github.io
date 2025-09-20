@@ -2,7 +2,7 @@
 title: "Silicon Spike: An Arduino-based low-cost and open-access triggerbox to precisely control TMS devices"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-04-15-paper-title-number-6
+permalink: /publication/2025-04-15-paper-title-number-7
 excerpt: 'Could a $60 Arduino-based device outperform commercial triggerboxes for TMS precision—down to the microsecond?'
 date: 2025-04-15
 venue: 'Behavior Research Methods'
