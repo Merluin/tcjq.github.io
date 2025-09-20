@@ -2,7 +2,7 @@
 title: "PsychoPy3: Programmare un Esperimento"
 collection: teaching
 type: "Workshop (20h, Open Badge Awarded)"
-permalink: /teaching/2021_psychopy3arca-teaching-2
+permalink: /teaching/2021-psychopy3arca-teaching-2
 venue: "Applied Research Courses Academy (ARCA), University of Padova"
 date: 2021-11-08
 location: "Padova, Italy"
