@@ -25,19 +25,19 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "merluin",
+        "url": "https://github.com/merluin"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Department of Developmental Psychology and Socialisation, University of Padova, Padova, Italy",
+      "area": "Ph.D. in Psychological Sciences",
+      "studyType": "Thesis: Conscious processing of facial expressions and the contribution of somesthetic signals. Supervisor: Prof. Paola Sessa — Final Grade: Excellent",
+      "startDate": "01/10/2018",
+      "endDate": "31/12/2021",
       "gpa": null,
       "courses": []
     },
