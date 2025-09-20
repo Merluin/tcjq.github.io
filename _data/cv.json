@@ -67,10 +67,65 @@
       "endDate": "11/07/2016",
       "gpa": null,
       "courses": []
+    },
+    {
+      "institution": "École Saint-Jean, France (SIRET 325624823 00028)",
+      "area": "B.A.-equivalent in Philosophy",
+      "studyType": "",
+      "startDate": "01/09/1997",
+      "endDate": "30/06/2000",
+      "gpa": null,
+      "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+  {
+    "name": "Research techniques and experimental methodologies",
+    "keywords": ["Binocular Rivalry", "Electric stimulation", "Tactile Stimulation", "TMS", "EEG", "EMG", "Neuronavigation"]
+  },
+  {
+    "name": "Programming languages",
+    "keywords": ["MATLAB", "Python", "Arduino IDE"]
+  },
+  {
+    "name": "Data analysis software",
+    "keywords": ["MATLAB", "Python", "R", "Statistica", "Jamovi", "Excel"]
+  },
+  {
+    "name": "Stimuli presentation and experimental-task software",
+    "keywords": ["Psychopy3", "Psychtoolbox", "E-prime", "Opensesame"]
+  },
+  {
+    "name": "Graphic processing software",
+    "keywords": ["Biorender", "Photoshop", "Fusion360", "3D Printing"]
+  },
+  {
+    "name": "Writing software",
+    "keywords": ["Latex", "Markdown", "Word", "GoogleDoc"]
+  },
+  {
+    "name": "Reference management software",
+    "keywords": ["Mendeley", "Paperpile", "ReadCube"]
+  },
+  {
+    "name": "Psychological and Neuropsychological tests",
+    "keywords": ["Administration", "Scoring"]
+  }
+],
+"languages": [
+  {
+    "language": "French",
+    "fluency": "Native"
+  },
+  {
+    "language": "Italian",
+    "fluency": "Fluent"
+  },
+  {
+    "language": "English",
+    "fluency": "Fluent"
+  }
+],
   "interests": [],
   "references": [],
   "publications": [
