@@ -2,7 +2,7 @@
 title: "Basic Level Statistics – Adjunct Professor"
 collection: teaching
 type: "Doctoral Course"
-permalink: /teaching/2024-statistics-verona
+permalink: /teaching/2024-statisticsverona-teaching-1
 venue: "University of Verona, Doctoral School"
 date: 2024-11-27
 location: "Online / Verona, Italy"
